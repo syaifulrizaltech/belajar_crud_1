@@ -5,3 +5,6 @@
 <li>setelah membuat database membuat tb_siswa</li>
 <li>di dalam tb_siswa terdapat data-data</li>
 <li>ada nisn,nama_siswa,jenis_kelamin,foto_siswa,alamat</li>
+<li>membuat tampilan awal</li>
+<li>membuat form pendafratan</li>
+<li>menampilkan data yang ada di data base</li>
