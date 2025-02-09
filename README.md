@@ -8,3 +8,4 @@
 <li>membuat tampilan awal</li>
 <li>membuat form pendafratan</li>
 <li>menampilkan data yang ada di data base</li>
+<li>membuat coding biar bisa apload foto</li>
